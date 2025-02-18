@@ -1,6 +1,5 @@
-# OpenCart Automation with Cypress
-
-Este proyecto automatiza los flujos de prueba críticos para la tienda en línea OpenCart utilizando Cypress. Incluye pruebas para registro de usuarios, inicio de sesión, restablecimiento de contraseña, agregar productos al carrito y completar el proceso de compra.
+# Automatización de Pruebas para Tiendas en Línea
+Este proyecto contiene pruebas automatizadas para validar los flujos críticos de tiendas en línea, utilizando Cypress. Incluye pruebas para la API de "Your Store", cubriendo la creación, consulta, actualización y eliminación de productos, así como pruebas para la tienda en línea OpenCart, que abarcan el registro de usuarios, inicio de sesión, restablecimiento de contraseña, agregar productos al carrito y completar el proceso de compra.e api
 
 ## Requisitos
 
