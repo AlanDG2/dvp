@@ -14,7 +14,7 @@ Este proyecto contiene pruebas automatizadas para validar los flujos críticos d
    ```bash
    git clone https://github.com/AlanDG2/DVP-Challenge.git
 
-2. Instala las dependencias:npm install
+2. Instala las dependencias:  npm install
 
 3. script  test opencart :  npm run allTest
    
