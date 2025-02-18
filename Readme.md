@@ -25,7 +25,7 @@ Este proyecto contiene pruebas automatizadas para validar los flujos críticos d
      ```bash
       start cypress/reports/html/index.html
 
-9.  script  API TEST :    \
+9.  script  API TEST :    
     ```bash
     npm run APITest 
 
