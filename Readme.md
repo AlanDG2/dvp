@@ -10,18 +10,27 @@ Este proyecto contiene pruebas automatizadas para validar los flujos críticos d
 ## Instalación
 
 1. Clona el repositorio:
- 
    ```bash
    git clone https://github.com/AlanDG2/DVP-Challenge.git
-
-2. Instala las dependencias:  npm install
-
-3. script  test opencart :  npm run allTest
    
-4.  reporte : start cypress/reports/html/index.html
-   
-5.  script  API TEST :  npm run APITest 
+2. Instala las dependencias: 
+    ```bash
+   npm install
 
-6.  reporte : start cypress/reports/html/index.html
+4. script  test opencart :
+     ```bash
+    npm run allTest
+   
+7.  reporte :  
+     ```bash
+      start cypress/reports/html/index.html
+
+9.  script  API TEST :    \
+    ```bash
+    npm run APITest 
+
+11.  reporte :
+       ```bash
+     start cypress/reports/html/index.html
 
 
